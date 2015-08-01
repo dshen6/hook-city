@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 6eda320a5b7284ea784ce5916c930452
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Sprites_1
+    21300002: Player_Sprites_2
+    21300004: Player_Sprites_3
+    21300006: Player_Sprites_4
+    21300008: Player_Sprites_5
+    21300010: Player_Sprites_6
+    21300012: Player_Sprites_6b
+    21300014: Player_Sprites_7
+    21300016: Player_Sprites_8
+    21300018: Player_Sprites_9
+    21300020: Player_Sprites_10
+    21300022: Player_Sprites_11
+    21300024: Player_Sprites_12
+    21300026: Player_Sprites_13
+    21300028: Player_Sprites_14
+    21300030: Player_Sprites_15
+    21300032: Player_Sprites_16
+    21300034: Player_Sprites_17
+    21300036: Player_Sprites_18
+    21300038: Player_Sprites_19
+    21300040: Player_Sprites_20
+    21300042: p1_head
+    21300044: Player_Sprites_22
+    21300046: Player_Sprites_23
+    21300048: Player_Sprites_25
+    21300050: p2_head
+    21300052: p1_body
+    21300054: p2_body
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_6b
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 142
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p1_head
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 104
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p2_head
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p1_body
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 69
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: p2_body
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
